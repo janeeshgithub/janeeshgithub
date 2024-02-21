@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @janeeshgithub
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c,c++,python
-- 💞️ I’m looking to collaborate on any beginners project
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me https://www.linkedin.com/in/janeesh-p-880963250 Linked In
   
 
