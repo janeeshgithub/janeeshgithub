@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/janeesh-p-880963250/**
 
-- ⚡ Fun fact **":I hit the Gym**
+- ⚡ Fun fact **:I hit the Gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
