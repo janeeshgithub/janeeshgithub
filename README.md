@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/janeesh-p-880963250/**
 
-- ⚡ Fun fact **:I do coding**
+- ⚡ Fun fact **: I do coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
