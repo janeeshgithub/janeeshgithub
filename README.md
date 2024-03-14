@@ -1,4 +1,4 @@
-![logo]
+![logo]https://github.com/janeeshgithub/janeeshgithub/blob/main/Banner.png
 <h1 align="center">Hi 👋, I'm JANEESH P</h1>
 <h3 align="center">A passionate Full Stack Developer and AI Enthusiast</h3>
 
