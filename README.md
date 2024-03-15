@@ -1,6 +1,7 @@
 ![logo](https://github.com/janeeshgithub/janeeshgithub/raw/main/Banner.png)
 <h1 align="center">Hi 👋, I'm JANEESH P</h1>
 <h3 align="center">A passionate Full Stack Developer and AI Enthusiast</h3>
+<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="400">
 
 - 🔭 I’m currently working on **Webdevelopment**
 
