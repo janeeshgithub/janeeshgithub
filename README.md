@@ -27,9 +27,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeeshgithub&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="GitHub contribution graph">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=dark" alt="janeeshgithub" /></p>
 
-[![JaneeshGitHub's GitHub | Stats](https://stats.quine.sh/JaneeshGitHub/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JaneeshGitHub)
+[![Janeesh's GitHub | Stats](https://stats.quine.sh/janeeshgithub/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JaneeshGitHub)
 
-[![JaneeshGitHub's GitHub | Topics](https://stats.quine.sh/JaneeshGitHub/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JaneeshGitHub)
+[![Janeesh's GitHub | Topics](https://stats.quine.sh/janeeshgithub/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JaneeshGitHub)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janeeshgithub&show_icons=true&locale=en&layout=compact" alt="janeeshgithub" /></p>
 
