@@ -10,6 +10,7 @@
 
 - ⚡ Fun fact **: I do coding**
 
+![](https://komarev.com/ghpvc/?username=janeeshgithub&color=dc143c)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/janeesh-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="janeesh-p" height="30" width="40" /></a>
