@@ -1,7 +1,7 @@
 ![logo](https://github.com/janeeshgithub/janeeshgithub/raw/main/Banner.png)
 <h1 align="center">Hi 👋, I'm JANEESH P</h1>
 <h3 align="center">A passionate Full Stack Developer and AI Enthusiast</h3>
-<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="400">
+<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200">
 
 - 🔭 I’m currently working on **Webdevelopment**
 
@@ -10,9 +10,6 @@
 - 📫 How to reach me **https://www.linkedin.com/in/janeesh-p-880963250/**
 
 - ⚡ Fun fact **: I do coding**
-<div style="width: 150px">
-    ![](https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic)
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/janeesh-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="janeesh-p" height="30" width="40" /></a>
