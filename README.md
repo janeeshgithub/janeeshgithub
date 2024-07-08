@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/janeesh-p-880963250/**
 - Buy me a Coffee **https://www.buymeacoffee.com/janeeshp/**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me   J:</h3>
 <p align="left">
 <a href="https://codepen.io/janeesh-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="janeesh-p" height="30" width="40" /></a>
   
