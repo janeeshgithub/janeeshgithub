@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer and AI Enthusiast</h3>
 <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200">
 
-- 📫 How to reach me **https://www.linkedin.com/in/janeesh-p-880963250/**
 - Buy me a Coffee **https://www.buymeacoffee.com/janeeshp/**
 <h3 align="left">Connect with me   J:</h3>
 <p align="left">
