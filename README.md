@@ -38,6 +38,15 @@
 
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=dark" alt="janeeshgithub" /></p>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="40px"></img>
   <a href="https://leetcode.com/janeeshpofficial/">
     <img src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
   </a>
