@@ -45,11 +45,12 @@
   </a>
 </div>
 <div align ="center">
-   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px"></img>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="40px"></img>
+     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="40px"></img>
+    <img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px"></img>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="40px"></img>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px"></img>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="40px"></img>
 </div>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janeeshgithub&show_icons=true&locale=en&layout=compact" alt="janeeshgithub" /></p>
