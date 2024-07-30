@@ -1,4 +1,4 @@
-![logo](https://github.com/janeeshgithub/janeeshgithub/raw/main/jp.png)
+
 <h3 align="center">A passionate Full Stack Developer and AI Enthusiast</h3>
 <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200">
 
