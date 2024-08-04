@@ -40,9 +40,9 @@
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=dark" alt="janeeshgithub" /></p>
  
-  <a href="https://leetcode.com/janeeshpofficial/">
-    <img src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+ <!-- <a href="https://leetcode.com/janeeshpofficial/">
+  //<img src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
+  </a> -->
 </div>
 <div align ="center">
      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
