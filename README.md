@@ -1,23 +1,40 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <p><b>A passionate Full Stack Developer and AI Enthusiast with a love for creating innovative solutions and contributing to open-source projects.</b></p>
-    <p>🌐 Check out my portfolio: <a href="https://janeesh.me" target="_blank">janeesh.me</a></p>
-    <p>Welcome to my GitHub profile! Here you'll find a collection of my projects, including my open-source contributions and personal initiatives. Feel free to explore, connect, and reach out if you have any questions or opportunities for collaboration.</p>
-    <p>- Buy me a Coffee: <a href="https://www.buymeacoffee.com/janeeshp/" target="_blank">Buy Me a Coffee</a></p>
+<div style="display: flex; align-items: flex-start; justify-content: flex-end;">
+  <img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="margin-left: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <div style="max-width: calc(100% - 220px);">
+    <h2 style="color: #333; font-weight: bold; margin-bottom: 10px;">About Me</h2>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="font-size: 16px; margin-bottom: 10px;">
+        🔭 <b>I’m currently working on</b> <i>Full-Stack and OpenCV projects</i>
+      </li>
+      <li style="font-size: 16px; margin-bottom: 10px;">
+        🌱 <b>I’m currently learning</b> <i>Java FullStack Dev and DSA</i>
+      </li>
+      <li style="font-size: 16px; margin-bottom: 10px;">
+        🤝 <b>I’m looking for help with</b> <i>Machine Learning</i>
+      </li>
+      <li style="font-size: 16px; margin-bottom: 10px;">
+        👨‍💻 <b>My portfolio -</b> <a href="https://janeesh.me" target="_blank" style="color: #007bff; text-decoration: none;">janeesh.me</a>
+      </li>
+      <li style="font-size: 16px; margin-bottom: 10px;">
+        💬 <b>Ask me about</b> <i>Front-end development</i>
+      </li>
+      <li style="font-size: 16px; margin-bottom: 10px;">
+        📫 <b>How to reach me</b> <i>janeeshpofficial@gmail.com</i>
+      </li>
+    </ul>
   </div>
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="My GIF" width="300" height="auto" />
 </div>
-###
+
+<hr style="height:2px;border-width:0;color:green;background-color:green">
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true"  height="500" alt="Contributions"/>
 </div>
 <hr style="height:2px;border-width:0;color:green;background-color:green">
-### 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=matrix&no-frame=true&no-bg=false&margin-w=4" width="100%" height="250" alt="Trophies"/>
 </div>
 <hr style="height:2px;border-width:0;color:green;background-color:green">
-### 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/janeesh-p" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="30" width="40" /></a>
@@ -35,6 +52,7 @@
     <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,express,git,html,java,js,mongodb,nodejs,python,react,flutter,next,tailwind,spring,django,php,mysql,firebase,postman,vscode,idea,atom,eclipse,github" />
   </a>
 </p>
+
 ###
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" /></p>
@@ -50,7 +68,9 @@
   <img src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
   </a> 
 </div>
-###
+<p align="right">
+  <img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<hr style="height:2px;border-width:0;color:green;background-color:green">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janeeshgithub&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Janeesh" />
 <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" /></p>
