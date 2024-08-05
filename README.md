@@ -67,16 +67,15 @@
 
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" style="width: 45%;"/>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="My GIF" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px; width: 35%;" />
- 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" style="width: 45%; margin-bottom: 20px;"/>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="My GIF" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 50%; margin-bottom: 20px;" />
 </div>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" />
-</p>
- <img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
-<img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  
+  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" alt="My GIF" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 35%; margin-bottom: 20px;" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" style="width: 45%; margin-bottom: 20px;"/>
+</div>
 
  
 <p align="center">
@@ -84,4 +83,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeeshgithub&bg_color=000000&title_color=538cc6&line=00cc00&point=538cc6&theme=github-compact" alt="Janeesh's github activity graph" />
   </a>
 </p>
+
+<img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
 
