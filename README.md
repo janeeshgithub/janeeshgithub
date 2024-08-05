@@ -5,6 +5,7 @@
 <p align="center">Welcome to my GitHub profile! Here you'll find a collection of my projects, including my open-source contributions and personal initiatives. Feel free to explore, connect, and reach out if you have any questions or opportunities for collaboration.</p>
 
 - Buy me a Coffee **[Buy Me a Coffee](https://www.buymeacoffee.com/janeeshp/)*
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/janeesh-p" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="30" width="40" /></a>
@@ -16,6 +17,22 @@
   <a href="https://auth.geeksforgeeks.org/user/janeeshpoiaex" target="_blank"><img src="https://skillicons.dev/icons?i=geeksforgeeks" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
+###
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true"  height="500" alt="Contributions"/>
+</div>
+
+<hr style="height:2px;border-width:0;color:green;background-color:green">
+
+### 
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=matrix&no-frame=true&no-bg=false&margin-w=4" width="100%" height="250" alt="Trophies"/>
+</div>
+<hr style="height:2px;border-width:0;color:green;background-color:green">
+
+### 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
