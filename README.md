@@ -1,25 +1,14 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="My GIF" width="300" height="auto" style="float: right; margin-left: 20px;" />
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <p><b>A passionate Full Stack Developer and AI Enthusiast with a love for creating innovative solutions and contributing to open-source projects.</b></p>
+    <p>🌐 Check out my portfolio: <a href="https://janeesh.me" target="_blank">janeesh.me</a></p>
+    <p>Welcome to my GitHub profile! Here you'll find a collection of my projects, including my open-source contributions and personal initiatives. Feel free to explore, connect, and reach out if you have any questions or opportunities for collaboration.</p>
+    <p>- Buy me a Coffee: <a href="https://www.buymeacoffee.com/janeeshp/" target="_blank">Buy Me a Coffee</a></p>
+  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="My GIF" width="300" height="auto" />
+</div>
 
-<p align="center">
-  <b>A passionate Full Stack Developer and AI Enthusiast with a love for creating innovative solutions and contributing to open-source projects.</b>
-</p>
-
-<p align="center">
-  🌐 Check out my portfolio: <a href="https://janeesh.me" target="_blank">janeesh.me</a>
-</p>
-
-<p align="center">
-  Welcome to my GitHub profile! Here you'll find a collection of my projects, including my open-source contributions and personal initiatives. Feel free to explore, connect, and reach out if you have any questions or opportunities for collaboration.
-</p>
-
-<p align="center">
-  - Buy me a Coffee **[Buy Me a Coffee](https://www.buymeacoffee.com/janeeshp/)**
-</p>
-
-  
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/janeesh-p" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="30" width="40" /></a>
   <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" /></a>
@@ -57,12 +46,8 @@
 
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" /></p>
- 
- <a href="https://leetcode.com/janeeshpofficial/">
-  <img src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
-  </a> 
-</div>
-<div align ="center">
+
+ <div align ="left">
      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
      <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="40px"></img>
     <img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px"></img>
@@ -70,11 +55,15 @@
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px"></img>
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="40px"></img>
 </div>
+ <a href="https://leetcode.com/janeeshpofficial/">
+  <img src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
+  </a> 
+</div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janeeshgithub&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Janeesh" /></p>
-<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200">
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janeeshgithub&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Janeesh" />
+<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" /></p>
 
 
