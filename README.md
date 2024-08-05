@@ -1,6 +1,8 @@
-
-<h3 align="center">A passionate Full Stack Developer and AI Enthusiast</h3>
-<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200">
+<p align="center">A passionate Full Stack Developer and AI Enthusiast with a love for creating innovative solutions and contributing to open-source projects.</p>
+<p align="center">
+  🌐 Check out my portfolio: <a href="https://janeesh.me" target="_blank">janeesh.me</a>
+</p>
+<p align="center">Welcome to my GitHub profile! Here you'll find a collection of my projects, including my open-source contributions and personal initiatives. Feel free to explore, connect, and reach out if you have any questions or opportunities for collaboration.</p>
 
 - Buy me a Coffee **[Buy Me a Coffee](https://www.buymeacoffee.com/janeeshp/)*
 
@@ -18,9 +20,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=amazon web services, bootstrap, c, c++, css3, express, git, html5, java, javascript, mongodb, node.js, python, react, flutter
-,git,c,java,py,cpp,html,css,js,bootstrap,react,next,tailwind,aws,nodejs,mongodb,flutter,express,spring,django,php,mysql,firebase,postman,vscode,idea,atom,eclipse,github" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,express,git,html,java,js,mongodb,nodejs,python,react,flutter,next,tailwind,spring,django,php,mysql,firebase,postman,vscode,idea,atom,eclipse,github" />
   </a>
+</p>
+
 
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" /></p>
@@ -40,6 +43,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janeeshgithub&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Janeesh" /></p>
+<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" /></p>
 
