@@ -4,19 +4,19 @@
     <h2 style="color: #333; font-weight: bold; margin-bottom: 10px;">About Me</h2>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="font-size: 16px; margin-bottom: 10px;">
-        🔭 <b>I’m currently working on</b> <i>Full-Stack and OpenCV projects</i>
+        🔭 <b>I’m currently working on</b> <i>building websites and creating innovative solutions.</i>
       </li>
       <li style="font-size: 16px; margin-bottom: 10px;">
-        🌱 <b>I’m currently learning</b> <i>Java FullStack Dev and DSA</i>
+        🌱 <b>I’m currently learning</b> <i>more about advanced React patterns and cloud services.</i>
       </li>
       <li style="font-size: 16px; margin-bottom: 10px;">
-        🤝 <b>I’m looking for help with</b> <i>Machine Learning</i>
+        🤝 <b>I’m looking for help with</b> <i>optimizing performance in React applications and exploring new AI technologies.</i>
       </li>
       <li style="font-size: 16px; margin-bottom: 10px;">
         👨‍💻 <b>My portfolio -</b> <a href="https://janeesh.me" target="_blank" style="color: #007bff; text-decoration: none;">janeesh.me</a>
       </li>
       <li style="font-size: 16px; margin-bottom: 10px;">
-        💬 <b>Ask me about</b> <i>Front-end development</i>
+        💬 <b>Ask me about</b> <i>Front-end development, Tailwind CSS, and React.</i>
       </li>
       <li style="font-size: 16px; margin-bottom: 10px;">
         📫 <b>How to reach me</b> <i>janeeshpofficial@gmail.com</i>
