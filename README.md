@@ -1,6 +1,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
   <div style="flex: 2; max-width: 600px;">
     <h2 style="color: #333; font-weight: bold; margin-bottom: 20px;">About Me</h2>
+    
+  <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blue&style=plastic" width="150">
     <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
       <li style="margin-bottom: 10px;">
         🔭 <b>I’m currently working on</b> <i>full-stack projects, AI, and ML.</i>
@@ -24,10 +26,6 @@
   </div>
 </div>
 <hr style="height:2px;border-width:0;color:green;background-color:green">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="100">
-</p>
 <p align="left">
   <a href="https://leetcode.com/janeeshpofficial/">
     <img align="center" src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
@@ -44,7 +42,6 @@
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 <p align="center">
   <img align="left" src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" height="500" alt="Contributions"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=janeeshgithub&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Janeesh" />
   <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=matrix&no-frame=true&no-bg=false&margin-w=4" width="100%" height="250" alt="Trophies"/>
 </p>
 
@@ -74,6 +71,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" />
 </p>
 <img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
+<img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="100">
+</p>
+
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" />
 </p>
@@ -83,3 +86,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeeshgithub&bg_color=000000&title_color=538cc6&line=00cc00&point=538cc6&theme=github-compact" alt="Janeesh's github activity graph" />
   </a>
 </p>
+
