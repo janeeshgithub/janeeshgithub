@@ -36,6 +36,18 @@
 
 
 <hr style="height:2px;border-width:0;color:green;background-color:green">
+ 
+ <a href="https://leetcode.com/janeeshpofficial/">
+  <img align="left" src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
+  </a> 
+  <div align ="right">
+     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="40px"></img>
+    <img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px"></img>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="40px"></img>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px"></img>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="40px"></img>
+</div>
 
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
@@ -55,19 +67,7 @@
     <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,express,git,html,java,js,mongodb,nodejs,python,react,flutter,next,tailwind,spring,django,php,mysql,firebase,postman,vscode,idea,atom,eclipse,github" />
   </a>
 </p>
-<hr style="height:2px;border-width:0;color:green;background-color:green">
- 
- <a href="https://leetcode.com/janeeshpofficial/">
-  <img src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
-  </a> 
-  <div align ="right">
-     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
-     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="40px"></img>
-    <img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px"></img>
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="40px"></img>
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px"></img>
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="40px"></img>
-</div>
+
 </div>
 
 <hr style="height:2px;border-width:0;color:green;background-color:green">
