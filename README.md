@@ -23,16 +23,17 @@
     </ul>
   </div>
 </div>
+<hr style="height:2px;border-width:0;color:green;background-color:green">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200">
 </p>
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/janeeshpofficial/">
     <img align="center" src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="40px" />
   <img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px" />
@@ -49,8 +50,8 @@
 
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://codepen.io/janeesh-p" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="30" width="40" /></a>
   <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
@@ -60,8 +61,8 @@
   <a href="https://auth.geeksforgeeks.org/user/janeeshpoiaex" target="_blank"><img src="https://skillicons.dev/icons?i=geeksforgeeks" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <h3 align="center">Languages and Tools:</h3>
+<div align="left">
+  <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,express,git,html,java,js,mongodb,nodejs,python,react,flutter,next,tailwind,spring,django,php,mysql,firebase,postman,vscode,idea,atom,eclipse,github" />
   </a>
