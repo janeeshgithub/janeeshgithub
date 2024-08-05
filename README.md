@@ -25,8 +25,8 @@
 </div>
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="200">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blueviolet&style=plastic" width="100">
 </p>
 <p align="left">
   <a href="https://leetcode.com/janeeshpofficial/">
@@ -41,7 +41,7 @@
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px" />
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="40px" />
 </p>
-
+<hr style="height:2px;border-width:0;color:green;background-color:green">
 <p align="center">
   <img align="left" src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" height="500" alt="Contributions"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=janeeshgithub&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Janeesh" />
@@ -60,7 +60,7 @@
   <a href="https://www.hackerrank.com/janeeshpofficial" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/janeeshpoiaex" target="_blank"><img src="https://skillicons.dev/icons?i=geeksforgeeks" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
-
+<hr style="height:2px;border-width:0;color:green;background-color:green">
 <div align="left">
   <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
@@ -70,19 +70,16 @@
 
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" />
 </p>
-<p align="center">
+<img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" />
 </p>
+ <img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
 <p align="center">
   <a href="https://github.com/janeeshgithub/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeeshgithub&bg_color=000000&title_color=538cc6&line=00cc00&point=538cc6&theme=github-compact" alt="Janeesh's github activity graph" />
   </a>
 </p>
-<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-  <div style="flex: 1; max-width: 600px;">
-    <img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
-    <img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
-  </div>
