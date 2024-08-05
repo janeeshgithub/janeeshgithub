@@ -73,8 +73,8 @@
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
 <div>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" /></p>
-<p>&nbsp;<img align="leftt" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" /></p>
 </div>
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
