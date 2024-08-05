@@ -1,10 +1,23 @@
-<p align="center">A passionate Full Stack Developer and AI Enthusiast with a love for creating innovative solutions and contributing to open-source projects.</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="My GIF" width="300" height="auto" style="float: right; margin-left: 20px;" />
+</p>
+
+<p align="center">
+  <b>A passionate Full Stack Developer and AI Enthusiast with a love for creating innovative solutions and contributing to open-source projects.</b>
+</p>
+
 <p align="center">
   🌐 Check out my portfolio: <a href="https://janeesh.me" target="_blank">janeesh.me</a>
 </p>
-<p align="center">Welcome to my GitHub profile! Here you'll find a collection of my projects, including my open-source contributions and personal initiatives. Feel free to explore, connect, and reach out if you have any questions or opportunities for collaboration.</p>
 
-- Buy me a Coffee **[Buy Me a Coffee](https://www.buymeacoffee.com/janeeshp/)*
+<p align="center">
+  Welcome to my GitHub profile! Here you'll find a collection of my projects, including my open-source contributions and personal initiatives. Feel free to explore, connect, and reach out if you have any questions or opportunities for collaboration.
+</p>
+
+<p align="center">
+  - Buy me a Coffee **[Buy Me a Coffee](https://www.buymeacoffee.com/janeeshp/)**
+</p>
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
