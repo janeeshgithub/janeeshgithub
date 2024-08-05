@@ -3,24 +3,18 @@
     <h2 style="color: #333; font-weight: bold; margin-bottom: 20px;">About Me</h2>
     
   <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blue&style=plastic" width="150">
-    <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
+    <ul style="list-style-type: none; padding-left: 0; font-size: 16px;"
       <li style="margin-bottom: 10px;">
-        🔭 <b>I’m currently working on</b> <i>full-stack projects, AI, and ML.</i>
+        🔭 <b>I’m currently working on</b> <i>full-stack and AIML projects</i>
       </li>
       <li style="margin-bottom: 10px;">
-        🌱 <b>I’m currently learning</b> <i>DSA with a focus on problem-solving and growing my skills in full-stack development.</i>
+        🌱 <b>I’m currently learning</b> <i>DSA with a focus on problem-solving and growing my Skills</i>
       </li>
       <li style="margin-bottom: 10px;">
         🤝 <b>I’m looking for help with</b> <i>optimizing performance in React applications and exploring advanced AI and ML technologies.</i>
       </li>
       <li style="margin-bottom: 10px;">
-        👨‍💻 <b>My portfolio -</b> <a href="https://janeesh.me" target="_blank" style="color: #007bff; text-decoration: none;">janeesh.me</a>
-      </li>
-      <li style="margin-bottom: 10px;">
-        💬 <b>Ask me about</b> <i>Front-end development, DSA, Tailwind CSS, and React.</i>
-      </li>
-      <li style="margin-bottom: 10px;">
-        📫 <b>How to reach me</b> <i>janeeshpofficial@gmail.com</i>
+        👨‍💻 <b>ITS MY WEBSITE</b> <a href="https://janeesh.me" target="_blank" style="color: #007bff; text-decoration: none;">janeesh.me</a>
       </li>
     </ul>
   </div>
@@ -49,39 +43,41 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/janeesh-p" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="30" width="40" /></a>
+
   <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/your_instagram_username" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="30" /></a>
   <a href="https://stackoverflow.com/users/22829867" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" height="30" width="40" /></a>
-  <a href="https://kaggle.com/janeeshp16" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/janeeshpofficial" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/janeeshpoiaex" target="_blank"><img src="https://skillicons.dev/icons?i=geeksforgeeks" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 <div align="left">
   <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,express,git,html,java,js,mongodb,nodejs,python,react,flutter,next,tailwind,spring,django,php,mysql,firebase,postman,vscode,idea,atom,eclipse,github" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,express,git,html,java,js,mongodb,nodejs,python,react,flutter,next,tailwind,django,pycharm,mysql,firebase,postman,vscode,idea,atom,eclipse,github,anaconda,androidstudio,bash,ai,opencv,vite,windows"/>
+
   </a>
 </div>
 
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" style="width: 65%; margin-bottom: 20px;"/>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="My GIF" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 25%; margin-bottom: 20px;" />
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<div>
   
   <img align="left" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" alt="My GIF" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 25%; margin-bottom: 20px;" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" style="width: 65%; margin-bottom: 20px;"/>
 </div>
-<hr style="height:2px;border-width:0;color:green;background-color:green">
-<p align="center">
-  <a href="https://github.com/janeeshgithub/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeeshgithub&bg_color=000000&title_color=538cc6&line=00cc00&point=538cc6&theme=github-compact" alt="Janeesh's github activity graph" />
-  </a>
-</p>
+
+<div style="margin-top: 20px;">
+  <p align="center">
+    <a href="https://github.com/janeeshgithub/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeeshgithub&bg_color=000000&title_color=538cc6&line=00cc00&point=538cc6&theme=github-compact" alt="Janeesh's github activity graph" />
+    </a>
+  </p>
+</div>
+
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
 <img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
