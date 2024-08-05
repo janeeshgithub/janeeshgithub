@@ -5,17 +5,17 @@
 <p align="center">Welcome to my GitHub profile! Here you'll find a collection of my projects, including my open-source contributions and personal initiatives. Feel free to explore, connect, and reach out if you have any questions or opportunities for collaboration.</p>
 
 - Buy me a Coffee **[Buy Me a Coffee](https://www.buymeacoffee.com/janeeshp/)*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/janeesh-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="janeesh-p" height="30" width="40" /></a> 
-<a href="https://twitter.com/janeeshofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janeeshofficial" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janeesh-p" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22829867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22829867" height="30" width="40" /></a>
-<a href="https://kaggle.com/janeeshp16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janeeshp16" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/janeeshpofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="janeeshpofficial" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/janeeshpoiaex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="janeeshpoiaex" height="30" width="40" /></a>
+  <a href="https://codepen.io/janeesh-p" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="30" width="40" /></a>
+  <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/22829867" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" height="30" width="40" /></a>
+  <a href="https://kaggle.com/janeeshp16" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/janeeshpofficial" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/janeeshpoiaex" target="_blank"><img src="https://skillicons.dev/icons?i=geeksforgeeks" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
