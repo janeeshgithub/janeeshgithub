@@ -68,13 +68,13 @@
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" style="width: 45%; margin-bottom: 20px;"/>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="My GIF" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 50%; margin-bottom: 20px;" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" style="width: 65%; margin-bottom: 20px;"/>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="My GIF" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 30%; margin-bottom: 20px;" />
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
   
-  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" alt="My GIF" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 35%; margin-bottom: 20px;" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" style="width: 45%; margin-bottom: 20px;"/>
+  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" alt="My GIF" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 30%; margin-bottom: 20px;" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" style="width: 65%; margin-bottom: 20px;"/>
 </div>
 
  
