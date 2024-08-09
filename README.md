@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blue&style=plastic" width="150">
     <ul style="list-style-type: none; padding-left: 0; font-size: 16px;"
       <li style="margin-bottom: 10px;">
-        🔭 <b>I’m currently working on</b> <i>full-stack and AIML projects</i>
+        🔭 <b>I’m currently working on</b> <i>full-stack and AI projects</i>
       </li>
       <li style="margin-bottom: 10px;">
         🌱 <b>I’m currently learning</b> <i>DSA with a focus on problem-solving and growing my Skills</i>
