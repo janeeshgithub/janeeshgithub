@@ -26,8 +26,6 @@
 
   <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/your_instagram_username" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/22829867" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" height="30" width="40" /></a>
 </p>
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 <div align="left">
