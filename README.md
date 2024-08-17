@@ -48,7 +48,6 @@
 <p align="left">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="40px" />
-  <img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px" />
   <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" width="40px"/>
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="40px" />
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px" />
