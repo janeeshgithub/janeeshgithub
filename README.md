@@ -40,7 +40,7 @@
   <img align="left" src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" height="500" alt="Contributions"/>
   <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=matrix&no-frame=true&no-bg=false&margin-w=4" width="100%" height="250" alt="Trophies"/>
 </p>
-<p align="left">
+<!--<p align="left">
   <a href="https://leetcode.com/janeeshpofficial/">
     <img align="center" src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
   </a>
