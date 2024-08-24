@@ -79,8 +79,20 @@
     </a>
   </p>
 </div>
-
 <hr style="height:2px;border-width:0;color:green;background-color:green">
+<br/>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeeshgithub&theme=github_dark)
+  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janeeshgithub&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=&theme=github_dark)
+  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janeeshgithub&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janeeshgithub&theme=github_dark)
+  
+
 
 <img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
 
