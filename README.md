@@ -40,27 +40,6 @@
   <img align="left" src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" height="500" alt="Contributions"/>
   <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=matrix&no-frame=true&no-bg=false&margin-w=4" width="100%" height="250" alt="Trophies"/>
 </p>
-<!--
-<p align="left">
-  <a href="https://leetcode.com/janeeshpofficial/">
-    <img align="center" src="https://leetcard.jacoblin.cool/janeeshpofficial?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
- -->
-<p align="left">
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="40px" />
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px" />
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="40px" />
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" width="40px" />
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="40px" />
-  <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="40px" />
-  
-  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="40px"/>
-  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="40px" />
-  
-</p> 
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
 
