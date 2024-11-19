@@ -45,14 +45,12 @@
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
 <!-- Streak Stats -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
-  <div style="flex: 0 0 48%; text-align: left;">
+<div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" alt="janeeshgithub" style="width: 100%;"/>
-  </div>
 </div>
 
 <!-- GitHub Stats -->
-<div style="flex: 0 0 48%; text-align: right;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" alt="janeeshgithub" style="width: 100%;" />
 </div>
 
