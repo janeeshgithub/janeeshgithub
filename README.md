@@ -4,7 +4,6 @@
   ![snake gif](https://github.com/janeeshgithub/janeeshgithub/blob/output/github-snake-dark.svg)
 
 <!-- About Me Section -->
-<div style="flex: 2; max-width: 600px;">
   <h2 style="color: #333; font-weight: bold; margin-bottom: 20px;">About Me</h2>
   <img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blue&style=plastic" width="150">
   <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
@@ -13,7 +12,6 @@
     <li style="margin-bottom: 10px;">🤝 <b>I’m looking for help with</b> <i>optimizing performance in React applications and exploring advanced AI and ML technologies.</i></li>
     <li style="margin-bottom: 10px;">👨‍💻 <b>ITS MY WEBSITE</b> <a href="https://janeesh.me" target="_blank" style="color: #007bff; text-decoration: none;">janeesh.me</a></li>
   </ul>
-</div>
 
 <!-- Horizontal Separator -->
 <hr style="height:2px;border-width:0;color:green;background-color:green">
@@ -59,12 +57,10 @@
 </div>
 
 <!-- Activity Graph -->
-<div style="margin-top: 20px;">
-  <p align="center">
+<div>
     <a href="https://github.com/janeeshgithub/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeeshgithub&bg_color=000000&title_color=538cc6&line=00cc00&point=538cc6&theme=github-compact" alt="Janeesh's github activity graph" />
     </a>
-  </p>
 </div>
 
 <!-- Horizontal Separator -->
