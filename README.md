@@ -38,11 +38,11 @@
 </div>
 <hr style="height:1px;border:none;color:green;background-color:green">
 
-<!-- Streak Stats -->
+<!-- Stats & Streak -->
 <h3>Stats & Streak</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" width="40%" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" width="60%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" width="40%" alt="GitHub Stats"/>
 </div>
 <hr style="height:1px;border:none;color:green;background-color:green">
 
@@ -66,7 +66,7 @@
 </div>
 
 <!-- Additional Stats -->
-<p align="center">
-  [![janeeshp's GitHub | Stats](https://stats.quira.sh/janeeshp/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=janeeshp)
-  [![janeeshp's GitHub | Languages Over Time](https://stats.quira.sh/janeeshp/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=janeeshp)
-</p>
+<h3>Other Metrics</h3>
+<div align="center">
+  <img src="https://stats.quira.sh/janeeshp/github?theme=dark" width="45%" alt="Quira Stats"/>
+</div>
