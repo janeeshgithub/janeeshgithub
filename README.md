@@ -77,6 +77,4 @@
   [![janeeshp's GitHub | Stats](https://stats.quira.sh/janeeshp/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=janeeshp)
   [![janeeshp's GitHub | Languages Over Time](https://stats.quira.sh/janeeshp/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=janeeshp)
 
-
-<img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
-
+![snake gif](https://github.com/janeeshgithub/janeeshgithub/blob/output/github-snake-dark.svg)
