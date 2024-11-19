@@ -30,9 +30,9 @@
 
 <!-- Contributions and Trophies -->
 <h3>Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=matrix&no-frame=true&margin-w=2" width="45%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=matrix&no-frame=true&margin-w=2" width="70%" alt="Trophies"/>
 
-<hr style="height:1px;border:none;color:green;background-color:green">
+<hr style="height:2px;border:none;color:green;background-color:green">
 
 
 
@@ -45,16 +45,3 @@
 </div>
 <hr style="height:1px;border:none;color:green;background-color:green">
 
-<!-- Profile Summary Cards -->
-
-
-
-
-<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blue&style=plastic" width="120">
-<ul>
-  <li>🔭 <b>Working on:</b> <i>Full-stack & AI projects</i></li>
-  <li>🌱 <b>Learning:</b> <i>DSA, problem-solving & skill growth</i></li>
-  <li>🤝 <b>Seeking Help:</b> <i>React performance & advanced AI/ML</i></li>
-  <li>👨‍💻 <b>My Website:</b> <a href="https://janeesh.me" target="_blank">janeesh.me</a></li>
-</ul>
-<hr style="height:1px;border:none;color:green;background-color:green">
