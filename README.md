@@ -5,21 +5,13 @@
 </p>
 
 <!-- About Me Section -->
-<h2>About Me</h2>
-<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blue&style=plastic" width="120">
-<ul>
-  <li>🔭 <b>Working on:</b> <i>Full-stack & AI projects</i></li>
-  <li>🌱 <b>Learning:</b> <i>DSA, problem-solving & skill growth</i></li>
-  <li>🤝 <b>Seeking Help:</b> <i>React performance & advanced AI/ML</i></li>
-  <li>👨‍💻 <b>My Website:</b> <a href="https://janeesh.me" target="_blank">janeesh.me</a></li>
-</ul>
-<hr style="height:1px;border:none;color:green;background-color:green">
+
 
 <!-- Connect with Me Section -->
 <h3>Connect with Me</h3>
 <p>
-  <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="25"/></a>
-  <a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="25"/></a>
+  <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="35"/></a>
+  <a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35"/></a>
 </p>
 <hr style="height:1px;border:none;color:green;background-color:green">
 
@@ -32,19 +24,11 @@
 
 <!-- Contributions and Trophies -->
 <h3>Achievements</h3>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
   <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=matrix&no-frame=true&margin-w=2" width="45%" alt="Trophies"/>
-</div>
+
 <hr style="height:1px;border:none;color:green;background-color:green">
 
-<!-- Stats & Streak -->
-<h3>Stats & Streak</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" width="40%" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" width="40%" alt="GitHub Stats"/>
-</div>
-<hr style="height:1px;border:none;color:green;background-color:green">
+
 
 <!-- Activity Graph -->
 <h3>Activity Graph</h3>
@@ -57,16 +41,28 @@
 
 <!-- Profile Summary Cards -->
 <h3>Profile Summary</h3>
-<div align="center">
+<div >
+ 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeeshgithub&theme=github_dark" width="90%" alt="Profile Details"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janeeshgithub&theme=gruvbox" width="45%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janeeshgithub&theme=github_dark" width="45%" alt="Stats"/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janeeshgithub&theme=github_dark" width="45%" alt="Repos Per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janeeshgithub&theme=github_dark" width="45%" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janeeshgithub&theme=github_dark" width="45%" alt="Productive Time"/>
+
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" width="40%" alt="Streak Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" width="40%" alt="GitHub Stats"/>
+  <img src="https://stats.quira.sh/janeeshp/github?theme=dark" width="45%" alt="Quira Stats"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
 </div>
 
-<!-- Additional Stats -->
-<h3>Other Metrics</h3>
-<div align="center">
-  <img src="https://stats.quira.sh/janeeshp/github?theme=dark" width="45%" alt="Quira Stats"/>
-</div>
+
+
+<img src="https://komarev.com/ghpvc/?username=janeeshgithub&color=blue&style=plastic" width="120">
+<ul>
+  <li>🔭 <b>Working on:</b> <i>Full-stack & AI projects</i></li>
+  <li>🌱 <b>Learning:</b> <i>DSA, problem-solving & skill growth</i></li>
+  <li>🤝 <b>Seeking Help:</b> <i>React performance & advanced AI/ML</i></li>
+  <li>👨‍💻 <b>My Website:</b> <a href="https://janeesh.me" target="_blank">janeesh.me</a></li>
+</ul>
+<hr style="height:1px;border:none;color:green;background-color:green">
