@@ -42,7 +42,7 @@
 <h3>Stats & Streak</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" width="40%" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" width="40%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" width="60%" alt="GitHub Stats"/>
 </div>
 <hr style="height:1px;border:none;color:green;background-color:green">
 
