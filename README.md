@@ -3,17 +3,23 @@
 <p align="center">
   <img src="https://github.com/janeeshgithub/janeeshgithub/blob/output/github-snake-dark.svg" alt="snake gif" width="90%"/>
 </p>
+<h3>Profile Summary</h3>
+<div >
+ 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janeeshgithub&theme=gruvbox" width="45%" alt="Most Commit Language"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janeeshgithub&theme=github_dark" width="45%" alt="Repos Per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janeeshgithub&theme=github_dark" width="45%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janeeshgithub&theme=github_dark" width="45%" alt="Productive Time"/>
 
-<!-- About Me Section -->
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" width="45%" alt="Streak Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" width="45%" alt="GitHub Stats"/>
+  <img src="https://stats.quira.sh/janeeshp/github?theme=dark" width="45%" alt="Quira Stats"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
+    
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeeshgithub&theme=github_dark" width="90%" alt="Profile Details"/>
+</div>
 
-
-<!-- Connect with Me Section -->
-<h3>Connect with Me</h3>
-<p>
-  <a href="https://twitter.com/janeeshofficial" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="35"/></a>
-  <a href="https://www.linkedin.com/in/janeesh-p-880963250/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35"/></a>
-</p>
-<hr style="height:1px;border:none;color:green;background-color:green">
 
 <!-- Languages and Tools Section -->
 <h3>Languages & Tools</h3>
@@ -40,21 +46,7 @@
 <hr style="height:1px;border:none;color:green;background-color:green">
 
 <!-- Profile Summary Cards -->
-<h3>Profile Summary</h3>
-<div >
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeeshgithub&theme=github_dark" width="90%" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janeeshgithub&theme=gruvbox" width="45%" alt="Most Commit Language"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janeeshgithub&theme=github_dark" width="45%" alt="Repos Per Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janeeshgithub&theme=github_dark" width="45%" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janeeshgithub&theme=github_dark" width="45%" alt="Productive Time"/>
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeeshgithub&theme=blue-green" width="40%" alt="Streak Stats"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=blue-green" width="40%" alt="GitHub Stats"/>
-  <img src="https://stats.quira.sh/janeeshp/github?theme=dark" width="45%" alt="Quira Stats"/>
-    <img src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
-</div>
 
 
 
