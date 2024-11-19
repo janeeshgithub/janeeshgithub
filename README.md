@@ -13,5 +13,4 @@
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeeshgithub&bg_color=0d1117&title_color=ff4500&line=00ff00&point=ffaa00&theme=github-compact" alt="Activity Graph" width="100%"/>
 
-<h3>Achievements</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=dracula&no-frame=true&margin-w=2" width="100%" alt="Trophies"/>
