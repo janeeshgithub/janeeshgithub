@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en&theme=highcontrast" width="45%" alt="GitHub Stats"/>
   <img src="https://stats.quira.sh/janeeshp/github?theme=solarized-dark" width="45%" alt="Quira Stats"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=material-palenight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeeshgithub&theme=gradient" width="90%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeeshgithub&theme=github_dark" width="90%" alt="Profile Details"/>
 </div>
 
 <!-- Languages and Tools Section -->
