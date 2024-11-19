@@ -1,5 +1,7 @@
 <!-- GIF at the Top -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+  <h1 style="color: #333; font-weight: bold; margin-bottom: 20px;">Git Streak</h1>
+  
+  ![snake gif](https://github.com/janeeshgithub/janeeshgithub/blob/output/github-snake-dark.svg)
 
 <!-- About Me Section -->
 <div style="flex: 2; max-width: 600px;">
@@ -38,10 +40,8 @@
 <hr style="height:2px;border-width:0;color:green;background-color:green">
 
 <!-- Contributions and Trophies -->
-<p align="center">
   <img align="left" src="https://github-contributor-stats.vercel.app/api?username=janeeshgithub&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" height="500" alt="Contributions"/>
   <img src="https://github-profile-trophy.vercel.app/?username=janeeshgithub&theme=matrix&no-frame=true&no-bg=false&margin-w=4" width="100%" height="250" alt="Trophies"/>
-</p>
 
 <!-- Horizontal Separator -->
 <hr style="height:2px;border-width:0;color:green;background-color:green">
@@ -72,13 +72,15 @@
 
 <!-- Profile Summary Cards -->
 <br/>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeeshgithub&theme=github_dark" alt="Profile Details"/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janeeshgithub&theme=github_dark" alt="Most Commit Language"/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janeeshgithub&theme=github_dark" alt="Stats"/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janeeshgithub&theme=github_dark" alt="Repos Per Language"/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janeeshgithub&theme=github_dark" alt="Productive Time"/>
-</p>
 
 <!-- Additional Stats and Snake Animation -->
 <p align="center">
@@ -87,5 +89,4 @@
   [![janeeshp's GitHub | Languages Over Time](https://stats.quira.sh/janeeshp/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=janeeshp)
 
 
-  ![snake gif](https://github.com/janeeshgithub/janeeshgithub/blob/output/github-snake-dark.svg)
 </p>
